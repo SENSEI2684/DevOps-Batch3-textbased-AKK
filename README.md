@@ -1,3 +1,3 @@
-## Git Homework
+## Git 
 
-[📘 Git Homework Cheatsheet](./md/git-homework.md)
+[1. Git Basic Concept Cheatsheet](./md/git-homework.md)
